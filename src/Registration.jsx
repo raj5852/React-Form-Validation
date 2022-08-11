@@ -30,7 +30,7 @@ const Registration = () => {
           <div className="modal">
             <div className="modal-container">
               <div className="modal-left">
-                <h1 className="modal-title">Welcome!</h1>
+                <h1 className="modal-title">Welcome!</h1><br />
                 
                 <form onSubmit={handleSubmit}>
                   <div className="input-block">
